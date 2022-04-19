@@ -12,3 +12,7 @@ games: *.swf files
 - Secuity Concern
 
 Some files have been lost during the rapid evolution of Internet. I will try my best to obtain files from the most reilable source which is available. If the original publisher is not available, files from Web Archiver and some reputable downloading sites will also be considered. File sources will be noted in README files along with them.
+
+- Modern Flash Runtime
+
+If you do not like the old .exe which plays flash files, for a modern (and which runs everywhere) replacement of Adobe Flash Player, I recommend switching to ruffle. This is a Flash Player emulator (they said) written in Rust. You can grab a binary very quickly from their website: https://ruffle.rs/
